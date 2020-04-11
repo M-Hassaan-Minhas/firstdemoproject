@@ -1,2 +1,6 @@
 Ny father is teacher
 My Changes on Server
+
+
+
+Smart Git learning locally
